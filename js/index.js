@@ -8,7 +8,7 @@ let result = document.getElementById('result');
 
 
 const Guess = {
-    max: 10,
+    max: 1000,
     attemptsNumber: 0,
     numberDrawn: function RandomValue() {
         return parseInt(Math.random() * this.max)
