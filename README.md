@@ -1,3 +1,3 @@
 # guess-number
-Guess Number/ Adivinhe o número
+Guess Number/ Guess the number
 https://guisem.github.io/guess-number/
